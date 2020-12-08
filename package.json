@@ -1,0 +1,14 @@
+{
+    "name": "SampleJavascriptClient",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "Petr Aubrecht <petr.aubrecht@ententee.com>",
+    "contributors": [],
+    "dependencies": {}
+}
