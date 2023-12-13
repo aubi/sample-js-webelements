@@ -1,4 +1,4 @@
-import {LitElement, html, css, customElement, property} from 'https://unpkg.com/lit-element/lit-element.js?module';
+import {LitElement, html, css, customElement, property} from 'https://unpkg.com/lit-element@2.5.1/lit-element.js?module';
 
 // commented code is TypeScript
 //            @customElement('nameday-element')
